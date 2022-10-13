@@ -17,9 +17,6 @@ Come forward to donate the books !!!
 <a href="https://github.com/ruperthnyagesoa/PJR-Library-Website/network/members"><img src="https://img.shields.io/github/forks/ruperthnyagesoa/PJR-Library-Website" alt="Forks Badge"/></a>
 <a href="https://github.com/ruperthnyagesoa/PJR-Library-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ruperthnyagesoa/PJR-Library-Website?color=2b9348"></a>
 <a href="https://github.com/ruperthnyagesoa/PJR-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
-</div>
-<a href="https://open.vscode.dev/organization/repository"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code"/></a>
-</div>
 
 
 # Contribution is fun! 🧡
