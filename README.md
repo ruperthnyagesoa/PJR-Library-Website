@@ -7,7 +7,7 @@ Come forward to donate the books !!!
 <h4>[ In development Phase ] 
 
 <h2> 
-📌<a href="https://ruperthnyagesoa.github.io/PJR-Library-Website/" target="_blank">Visit our website 🚀</a>
+📌<a href="https://ruperthnyagesoa.github.io/PJR-Library-Website/" target="_blank">Visit my website 🚀</a>
 </h2>
 
 
