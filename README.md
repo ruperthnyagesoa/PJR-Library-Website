@@ -30,7 +30,7 @@ Come forward to donate the books !!!
 
 ## 📌 Sneak Peek of Main Page
 
-![image](https://github.com/ruperthnyagesoa/PJR-Library-Website/blob/main/PjR-Library.png)
+![image](https://github.com/ruperthnyagesoa/PJR-Library-Website/blob/main/assets/images/pjr(2).png)
   
 	
 <a href="https://github.com/ruperthnyagesoa/PJR-Library-Website/graphs/contributors">
