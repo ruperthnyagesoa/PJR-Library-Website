@@ -19,8 +19,6 @@ Come forward to donate the books !!!
 <a href="https://github.com/ruperthnyagesoa/PJR-Library-Website"><img src="https://badges.frapsoft.com/os/v2/open-source.svg" alt="Open Source"/></a>
 
 
-# Contribution is fun! 🧡
-
 ## 📌 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -32,15 +30,6 @@ Come forward to donate the books !!!
 
 ![image](https://github.com/ruperthnyagesoa/PJR-Library-Website/blob/main/assets/images/pjr(2).png)
   
-	
-<a href="https://github.com/ruperthnyagesoa/PJR-Library-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ruperthnyagesoa/PJR-Library-Website" />
-</a>
-
-<h1 align=center>Happy Coding 👨‍💻 </h1>
-
----
-
 <h2>📬 Contact</h2>
 
 If you want to contact me, you can reach me through below handles.
@@ -57,7 +46,7 @@ If you want to contact me, you can reach me through below handles.
 	
  
 
-© 2022 Ruperth Nyagesoa and contributors\
+© 2022 Ruperth Nyagesoa
 This project is licensed under the [**MIT license**](https://github.com/ruperthnyagesoa/PJR-Library-Website/blob/main/LICENSE).
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
